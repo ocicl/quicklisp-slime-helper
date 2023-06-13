@@ -1,0 +1,10 @@
+* quicklisp-slime-helper
+
+Helper library for easy Quicklisp SLIME setup
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/quicklisp/quicklisp-slime-helper.git   |
+| commit  | 6c6887d  |
+| systems | quicklisp-slime-helper |
+|---------+-------------------------------------------|
+
